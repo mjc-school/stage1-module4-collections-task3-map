@@ -23,7 +23,8 @@ sentense in loWER caSE, SENTENCE IN UPper CAse.
 **Output**
 
 ```
-sentense - 2
+sentense - 1
+sentence - 1
 in - 2
 lower - 1
 case - 2
